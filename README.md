@@ -30,6 +30,44 @@ A centralized configuration matrix, network orchestration layer, and automation 
 
 
 
+🖥️ System Status and Runtime Preview
+
+
+
+Bound DW addr to 192.168.70.209:3074
+
+Bound DW port to 3074
+
+\--- Cmd Initialization Complete ---
+
+Loading fastfile code\_pre\_gfx\_zm
+
+\[STEAM] 1 calls ready, running...
+
+\----- FS\_Startup -----
+
+Searching for files required to download mod: "" map: ""
+
+Build r5334
+
+no files required for mod download.
+
+Current language: english
+
+execing plutonium\_zm.cfg
+
+completed execing plutonium\_zm.cfg
+
+bound socket to localhost:4976
+
+PMem\_Init: Allocated 0x30000000 bytes
+
+\--- Common Initialization Complete ---
+
+Sys\_GumpFlushed set gumpFlushedEvent
+
+
+
 🚀 Deployment Pipeline
 
 
