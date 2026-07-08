@@ -1,10 +1,10 @@
-T6 Dedicated Network Infrastructure \& Automation Framework
+## T6 Dedicated Network Infrastructure \& Automation Framework
 
 A centralized configuration matrix, network orchestration layer, and automation framework designed to deploy high-availability dedicated servers for legacy multiplayer and cooperative game environments utilizing modern community client runtimes.
 
 <br><br>
 
-🛠️ Architecture \& System Features
+## 🛠️ Architecture \& System Features
 
 1. Automated Lifecycle Daemons: Features custom batch scripts executing automated crash-recovery loops, minimizing downtime during edge-case memory leaks.
 
@@ -17,22 +17,21 @@ A centralized configuration matrix, network orchestration layer, and automation 
 3. Asset Mapping Pipeline: Scalable directory structures engineered for modular Game Script Code (GSC) injection and custom map pool indexing.
 
 
+<br><br>
+## 📦 Repository Structure
 
-📦 Repository Structure
-
-├── config/
-
-│   └── dedicated.cfg.example  <- Optimized server parameter \& network matrix
-
-└── scripts/
-
-└── start\_zm\_server.bat    <- Runtime lifecycle automation daemon
-
+```text
+📁 t6-server-infrastructure/
+├── 📂 config/
+│   └── 📄 dedicated.cfg.example   # Optimized server parameter & network matrix
+└── 📂 scripts/
+    └── ⚙️ start_zm_server.bat     # Runtime lifecycle automation daemon
+```
 <br><br>
 
-🖥️ System Status and Runtime Preview
+## 🖥️ System Status and Runtime Preview
 
-
+```text
 
 Bound DW addr to 192.168.70.209:3074
 
@@ -65,10 +64,10 @@ PMem\_Init: Allocated 0x30000000 bytes
 \--- Common Initialization Complete ---
 
 Sys\_GumpFlushed set gumpFlushedEvent
-
+```
 <br><br>
 
-🚀 Deployment Pipeline
+## 🚀 Deployment Pipeline
 
 
 
