@@ -2,7 +2,7 @@ T6 Dedicated Network Infrastructure \& Automation Framework
 
 A centralized configuration matrix, network orchestration layer, and automation framework designed to deploy high-availability dedicated servers for legacy multiplayer and cooperative game environments utilizing modern community client runtimes.
 
-
+<br><br>
 
 🛠️ Architecture \& System Features
 
@@ -10,11 +10,11 @@ A centralized configuration matrix, network orchestration layer, and automation 
 
 
 
-2\. Network \& Thread Optimization: Implements custom rate-limiting configurations, port allocation policies, and strict thread priorities tailored for the T6 network engine.
+2. Network \& Thread Optimization: Implements custom rate-limiting configurations, port allocation policies, and strict thread priorities tailored for the T6 network engine.
 
 
 
-3\. Asset Mapping Pipeline: Scalable directory structures engineered for modular Game Script Code (GSC) injection and custom map pool indexing.
+3. Asset Mapping Pipeline: Scalable directory structures engineered for modular Game Script Code (GSC) injection and custom map pool indexing.
 
 
 
@@ -28,7 +28,7 @@ A centralized configuration matrix, network orchestration layer, and automation 
 
 └── start\_zm\_server.bat    <- Runtime lifecycle automation daemon
 
-
+<br><br>
 
 🖥️ System Status and Runtime Preview
 
@@ -66,7 +66,7 @@ PMem\_Init: Allocated 0x30000000 bytes
 
 Sys\_GumpFlushed set gumpFlushedEvent
 
-
+<br><br>
 
 🚀 Deployment Pipeline
 
@@ -78,13 +78,13 @@ git clone https://github.com/YOUR\_USERNAME/t6-server-infrastructure.git
 
 
 
-2\. Configure Environment Parameters:
+2. Configure Environment Parameters:
 
 Duplicate config/dedicated.cfg.example to config/dedicated.cfg and populate your network ports and operational security keys.
 
 
 
-3\. Execute Runtime Loop:
+3. Execute Runtime Loop:
 
 Launch scripts/start\_zm\_server.bat to spin up the automated server daemon.
 
