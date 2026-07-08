@@ -1,0 +1,18 @@
+// T6 Dedicated Server Configuration Matrix
+// Operational Parameters
+
+set sv_hostname "Plutonium T6 Dedicated Server | Community Build Instance"
+set g_motd "Welcome to the high-availability infrastructure node."
+
+// Network Allocation Parameters
+set net_port 4976
+set net_ip ""
+
+// Security & Authentication Placeholders
+// REPLACE WITH YOUR REPOSITORIES / INSTANCE PRIVATE TOKENS LOCALLY
+set rcon_password "YOUR_SECURE_RCON_PASSWORD_HERE"
+set sv_password ""
+
+// Core Gameplay Architecture
+set sv_maxclients 18
+set sv_maprotation "zm_transit zm_nuke zm_highrise"

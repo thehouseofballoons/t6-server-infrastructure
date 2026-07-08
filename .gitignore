@@ -1,0 +1,10 @@
+# Ignore heavy game data and compiled assets
+*.ipak
+*.exe
+*.dll
+zone/
+storage/
+
+# Ignore sensitive configuration details
+*secret*
+*password*
