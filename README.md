@@ -73,7 +73,7 @@ Sys\_GumpFlushed set gumpFlushedEvent
 
 1. Clone the Infrastructure:
 
-git clone https://github.com/YOUR\_USERNAME/t6-server-infrastructure.git
+git clone https://github.com/thehouseofballoons/t6-server-infrastructure.git
 
 
 
